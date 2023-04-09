@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\bin\Debug\net6.0-windows\Dan u nedelji.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\bin\Debug\net6.0-windows\Dan u nedelji.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\bin\Debug\net6.0-windows\Dan u nedelji.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\bin\Debug\net6.0-windows\Dan u nedelji.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\bin\Debug\net6.0-windows\Dan u nedelji.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\obj\Debug\net6.0-windows\Dan u nedelji.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\obj\Debug\net6.0-windows\Dan_u_nedelji.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\obj\Debug\net6.0-windows\Dan u nedelji.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\obj\Debug\net6.0-windows\Dan u nedelji.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\obj\Debug\net6.0-windows\Dan u nedelji.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\obj\Debug\net6.0-windows\Dan u nedelji.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\obj\Debug\net6.0-windows\Dan u nedelji.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\obj\Debug\net6.0-windows\Dan u nedelji.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\obj\Debug\net6.0-windows\refint\Dan u nedelji.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\obj\Debug\net6.0-windows\Dan u nedelji.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\obj\Debug\net6.0-windows\Dan u nedelji.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Dan u nedelji\Dan u nedelji\obj\Debug\net6.0-windows\ref\Dan u nedelji.dll
